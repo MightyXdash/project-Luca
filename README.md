@@ -6,4 +6,3 @@ All datasets will be provided with the models too . you have complete freedom to
 so you can finetune the models.
 models will be trained on either a i5 12450H or a Nvidia RTX 3050 4GB
 
-I wish one day I can collab with Sam Altman , so download my models and make some videos about it lol 🤫😉
