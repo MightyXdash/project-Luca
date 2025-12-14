@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="hello_fox_mascot" src="https://github.com/user-attachments/assets/6e5f4a6f-dbcf-40ad-970d-52808b814551" />
+
+
+
 # Project-Luca
 
 Project-Luca is my open research initiative focused on building highly efficient artificial intelligence systems. The objective is not to maximize parameter count, but to maximize intelligence per parameter. Every design decision, including architecture, data composition, and training strategy, is optimized to reach a balance point where the model produces coherent and stable outputs without unnecessary computational overhead.
